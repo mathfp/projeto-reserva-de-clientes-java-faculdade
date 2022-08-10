@@ -22,7 +22,7 @@ O projeto utiliza as janelas gráficas da classe java JOptionPane para criação
    
    2. Pesquisar alguma reserva por meio do cpf ou cnpj da pessoa;
    
-   3. Impressão da lista de reservas com as 5 primeiras reservas dos clientes com os dados (nome, tipo da pessoa, forma de pagamento);
+   3. Impressão da lista de reservas dos clientes com os dados (nome, tipo da pessoa, forma de pagamento);
    
    4. Impressão da lista de espera com os dados dos clientes (nome, tipo da pessoa, forma de pagamento);
    
