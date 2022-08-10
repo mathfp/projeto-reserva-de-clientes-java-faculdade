@@ -1,18 +1,20 @@
 
 Projeto realizado em java no 1° Semestre de 2021 
 
-# Reserva de Clientes restaurante SABOR SOFISTICADO (restaurante fictício)
+# Reserva de Clientes Restaurante SABOR SOFISTICADO
+
+(restaurante fictício)
 
 O projeto utiliza as janelas gráficas da classe do java JOptionPane  para criação do menu de reservas do restaurante onde o usuário escolhe/digita o número correspondente a opção: 
 
 # Menu do Restaurante
 
-  * 1. Reservar Mesa
-  * 2. Pesquisar Reserva
-  * 3. Imprimir Reservas
-  * 4. Imprimir lista de espera
-  * 5. Cancelar Reserva
-  * 6. Finalizar
+  * 1 Reservar Mesa
+  * 2 Pesquisar Reserva
+  * 3 Imprimir Reservas
+  * 4 Imprimir lista de espera
+  * 5 Cancelar Reserva
+  * 6 Finalizar
   
   Sendo assim, o usuário escolhe as respectivas opções: 
   
