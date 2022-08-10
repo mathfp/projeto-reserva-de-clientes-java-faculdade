@@ -7,7 +7,7 @@ Projeto realizado em java no 1° Semestre de 2021
 
 O projeto utiliza as janelas gráficas da classe java JOptionPane para criação do menu de reservas do restaurante onde o usuário escolhe/digita o número correspondente a opção.
 
-# Menu do Restaurante
+## Menu do Restaurante
 
   * 1 Reservar Mesa
   * 2 Pesquisar Reserva
