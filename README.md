@@ -26,7 +26,7 @@ O projeto utiliza as janelas gráficas da classe java JOptionPane para criação
    
    4. Impressão da lista de espera com os dados dos clientes (nome, tipo da pessoa, forma de pagamento);
    
-   5. Cancelar alguma reserva da lista de reservas através do fornecimento do cpf ou cnpj da pessoa, assim passando o primeiro cliente da lista de espera para a lista de reservas;
+   5. Cancelar alguma reserva da lista de reservas através do fornecimento do cpf ou cnpj do cliente que se encontra na lista;
   
   6. Fim da execução do programa;
   
