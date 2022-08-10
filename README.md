@@ -1,7 +1,7 @@
 
 Projeto realizado em java no 1° Semestre de 2021 
 
-# Reserva de Clientes Restaurante SABOR SOFISTICADO
+# Reserva de Clientes Restaurante Sabor Sofisticado
 
 (restaurante fictício)
 
