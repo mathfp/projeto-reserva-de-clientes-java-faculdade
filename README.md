@@ -37,6 +37,6 @@ O projeto utiliza as janelas gráficas da classe java JOptionPane para criação
   * Só é possível incluir até 5 pessoas na lista de reservas; 
   * Se a pessoa decidir realizar mais reservas, as próximas irão para uma lista de espera; 
   * Só será possível o cliente ir da lista de espera para a lista de reservas quando alguma reserva (da lista de reservas) for cancelada;
-  * Quando cancelar alguma reserva, o primeiro cliente da lista de espera irá para lista de reservas;
+  * Quando cancelar alguma reserva, o primeiro cliente da lista de espera irá para lista de reservas e assim removendo-o da lista de espera.
    
    ![image](https://user-images.githubusercontent.com/68198636/184022391-fd586b59-7eb8-4df3-8c4a-dd11dd9b46d3.png)
