@@ -20,7 +20,7 @@ O projeto utiliza as janelas gráficas da classe java JOptionPane para criação
   
    1. Reservar alguma mesa, digitando o nome, tipo da pessoa (física ou jurídica), forma de pagamento (á vista ou parcelado) ;
    
-   2. Pesquisar algum reserva por meio do cpf ou cnpj da pessoa;
+   2. Pesquisar alguma reserva por meio do cpf ou cnpj da pessoa;
    
    3. Impressão da lista de reservas com as 5 primeiras reservas dos clientes com os dados (nome, tipo da pessoa, forma de pagamento);
    
